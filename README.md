@@ -31,6 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <!-- Flutter Animated Logo -->
+  <img src="https://cdn.dribbble.com/users/1338391/screenshots/11174104/media/132a5e19ebd6431cf90c5fdbac5b7991.gif" height="40" alt="flutter animation logo" />
 </div>
 
 ###
@@ -45,9 +48,7 @@
   <a href="http://linkedin.com/in/muhammad-fayis--k-m" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="www.youtube.com/@MuhammadFayiskmofficial" target="_blank">
+  <a href="https://www.youtube.com/@MuhammadFayiskmofficial" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-###
