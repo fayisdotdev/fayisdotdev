@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Fayis K M and I'm a Flutter Developer, from India</h2>
+ <h2 align="left">Hi 👋! My name is Muhammad Fayis K M and I'm a Flutter Developer, from India</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/_.fayizdotdev/" target="_blank">
+  <a href="https://www.instagram.com/fayizdotdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:muhammadfayiskmofficial@gmail.com" target="_blank">
