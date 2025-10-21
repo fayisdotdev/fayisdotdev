@@ -39,13 +39,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/fayizdotdev/" target="_blank">
+  <a href="https://www.instagram.com/fayisdotdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:muhammadfayiskmofficial@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="http://linkedin.com/in/muhammad-fayis--k-m" target="_blank">
+  <a href="http://linkedin.com/in/fayisdotdev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@MuhammadFayiskmofficial" target="_blank">
